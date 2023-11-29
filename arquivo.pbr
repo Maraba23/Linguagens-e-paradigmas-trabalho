@@ -1,0 +1,10 @@
+inteiro a;
+inteiro b;
+
+a = 1;
+b = 2;
+
+se (a > b)
+    a = a + b;
+senao
+    b = a + b;
