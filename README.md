@@ -1,3 +1,6 @@
 # Linguagens-e-paradigmas-trabalho
 
-Dupla: Júlia Ferreira de Paiva e Marcelo Rabello Barranco
+Trio: 
+    - Júlia Ferreira de Paiva
+    - Marcelo Rabello Barranco
+    - Marcelo Marchetto

@@ -1,10 +1,9 @@
 inteiro a;
 inteiro b;
+inteiro c = lambda x . x + 5;
 
 a = 5;
 b = 2;
 
 se (a > b)
-    a = a + b;
-senao
-    b = a + b;
+    a = c(b);
